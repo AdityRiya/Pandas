@@ -6,3 +6,4 @@ s1=pd.DataFrame({'Name':['adity','rabia','sharif','akib'],'roll':['34','01','27'
 print(s1.head(3))
 print(s1.tail(3))
 print(s1.shape)
+print(s1.describe())
